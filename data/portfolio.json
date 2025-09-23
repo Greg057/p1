@@ -1,0 +1,295 @@
+{
+  "personal": {
+    "full_name": "Grégoire Meyer",
+    "title": "Master of Computer Science Student",
+    "about_me": "Master of Computer Science student at University of Wollongong specializing in Machine Learning and Big Data. Seeking to leverage internship experiences in software engineering and business development to build impactful software solutions. Skilled in TypeScript, Python, AWS, and modern web frameworks with a strong focus on scalable and efficient applications.",
+    "location": "NSW, AUS",
+    "avatarUrl": null,
+    "cvUrl": "/p1/user-files/e149b8ba-62c1-4034-9e10-24d1e0f74aee/cv.pdf",
+    "custom_links": [
+      {
+        "icon": "email",
+        "title": "Email",
+        "url": "gregoire.meyer.au@gmail.com"
+      },
+      {
+        "icon": "linkedin",
+        "title": "LinkedIn",
+        "url": "https://linkedin.com/in/grégoiremeyer"
+      },
+      {
+        "icon": "github",
+        "title": "GitHub",
+        "url": "https://github.com/Greg057"
+      }
+    ]
+  },
+  "selectedComponents": {
+    "userInfo": "minimalProfile",
+    "skills": "orbitingCircles",
+    "projects": "threeDCard",
+    "workExperience": "card",
+    "education": "card"
+  },
+  "sectionOrder": [
+    "personal",
+    "projects",
+    "education",
+    "experience",
+    "skills"
+  ],
+  "skills": [
+    {
+      "name": "TypeScript",
+      "logo": "/p1/icons/typescript/typescript-original.svg"
+    },
+    {
+      "name": "Angular",
+      "logo": "/p1/icons/angular/angular-original.svg"
+    },
+    {
+      "name": "NestJS",
+      "logo": "/p1/icons/nestjs/nestjs-original.svg"
+    },
+    {
+      "name": "Node.js",
+      "logo": "/p1/icons/nodejs/nodejs-original.svg"
+    },
+    {
+      "name": "Python",
+      "logo": "/p1/icons/python/python-original.svg"
+    },
+    {
+      "name": "AWS",
+      "logo": "/p1/icons/amazonwebservices/amazonwebservices-original.svg"
+    },
+    {
+      "name": "Lambda",
+      "logo": null
+    },
+    {
+      "name": "S3",
+      "logo": null
+    },
+    {
+      "name": "Threedy.io",
+      "logo": null
+    },
+    {
+      "name": "HTML",
+      "logo": "/p1/icons/html5/html5-original.svg"
+    },
+    {
+      "name": "CSS",
+      "logo": "/p1/icons/css3/css3-original.svg"
+    },
+    {
+      "name": "SQL",
+      "logo": null
+    },
+    {
+      "name": "Dash",
+      "logo": null
+    },
+    {
+      "name": "Excel",
+      "logo": null
+    },
+    {
+      "name": "Next.js",
+      "logo": "/p1/icons/nextjs/nextjs-original.svg"
+    },
+    {
+      "name": "React",
+      "logo": "/p1/icons/react/react-original.svg"
+    },
+    {
+      "name": "Supabase",
+      "logo": "/p1/icons/supabase/supabase-original.svg"
+    },
+    {
+      "name": "React Native",
+      "logo": "/p1/icons/reactnative/reactnative-original.svg"
+    },
+    {
+      "name": "JavaScript",
+      "logo": "/p1/icons/javascript/javascript-original.svg"
+    },
+    {
+      "name": "Firebase",
+      "logo": "/p1/icons/firebase/firebase-original.svg"
+    },
+    {
+      "name": "Swift",
+      "logo": "/p1/icons/swift/swift-original.svg"
+    },
+    {
+      "name": "Java",
+      "logo": "/p1/icons/java/java-original.svg"
+    },
+    {
+      "name": "C",
+      "logo": "/p1/icons/c/c-original.svg"
+    },
+    {
+      "name": "Tailwind CSS",
+      "logo": "/p1/icons/tailwindcss/tailwindcss-original.svg"
+    },
+    {
+      "name": "NumPy",
+      "logo": "/p1/icons/numpy/numpy-original.svg"
+    },
+    {
+      "name": "SwiftUI",
+      "logo": null
+    },
+    {
+      "name": "Express",
+      "logo": "/p1/icons/express/express-original.svg"
+    },
+    {
+      "name": "Flask",
+      "logo": "/p1/icons/flask/flask-original.svg"
+    },
+    {
+      "name": "pytest",
+      "logo": "/p1/icons/pytest/pytest-original.svg"
+    },
+    {
+      "name": "Jest",
+      "logo": "/p1/icons/jest/jest-original.svg"
+    },
+    {
+      "name": "EJS",
+      "logo": null
+    },
+    {
+      "name": "Expo",
+      "logo": "/p1/icons/expo/expo-original.svg"
+    },
+    {
+      "name": "Git",
+      "logo": "/p1/icons/git/git-original.svg"
+    },
+    {
+      "name": "GitHub",
+      "logo": "/p1/icons/github/github-original.svg"
+    },
+    {
+      "name": "VS Code",
+      "logo": "/p1/icons/vscode/vscode-original.svg"
+    },
+    {
+      "name": "Xcode",
+      "logo": "/p1/icons/xcode/xcode-original.svg"
+    },
+    {
+      "name": "Docker",
+      "logo": "/p1/icons/docker/docker-original.svg"
+    },
+    {
+      "name": "Linux",
+      "logo": "/p1/icons/linux/linux-original.svg"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Koderra.io",
+      "description": "Full-stack web app using TypeScript, Next.js (React), and Supabase designed for software engineers and developers to create personalized, professional portfolios in a few clicks.",
+      "picUrl": null,
+      "technologies": [
+        {
+          "name": "TypeScript",
+          "logo": "/p1/icons/typescript/typescript-original.svg"
+        },
+        {
+          "name": "Next.js",
+          "logo": "/p1/icons/nextjs/nextjs-original.svg"
+        },
+        {
+          "name": "React",
+          "logo": "/p1/icons/react/react-original.svg"
+        },
+        {
+          "name": "Supabase",
+          "logo": "/p1/icons/supabase/supabase-original.svg"
+        }
+      ],
+      "custom_links": []
+    },
+    {
+      "name": "Focus Pals",
+      "description": "Gamified productivity app launched on the App Store, built with React Native, JavaScript and Firebase.\r\nAchieved 195 organic downloads and received a 5.0-star rating from 5 reviews.",
+      "picUrl": null,
+      "technologies": [
+        {
+          "name": "React Native",
+          "logo": "/p1/icons/reactnative/reactnative-original.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/p1/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "Firebase",
+          "logo": "/p1/icons/firebase/firebase-original.svg"
+        }
+      ],
+      "custom_links": []
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "BMW Group",
+      "position": "Software Engineer Intern",
+      "location": "Munich, Germany",
+      "start_date": "August 2024",
+      "end_date": "January 2025",
+      "description": "• Developed a 3D vibration visualization web app for car components, reducing engineers’ workload by 80% using TypeScript, Angular, NestJS, Node.js, Python, AWS (Lambda, S3), and Threedy.io.\r\n• Optimized an existing Python script for automated Jira issue creation, reducing manual work by an additional 70% through refactoring 1,000+ lines of Python code, fixing 15+ critical bugs, and enhancing error handling.\r\n• Deployed 2 AWS Lambda functions integrated with Amazon S3 to process large datasets, parse MATLAB files, and perform computationally intensive engineering analyses.",
+      "logoUrl": null,
+      "custom_links": []
+    },
+    {
+      "company": "Amazon",
+      "position": "Business Development Intern",
+      "location": "Munich, Germany",
+      "start_date": "June 2023",
+      "end_date": "September 2023",
+      "description": "• Developed an interactive and user-friendly dashboard using Python, HTML, CSS, SQL, and Dash to visualize sales data based on zip code through a detailed German heatmap.\r\n• Performed several analyses using SQL and Excel, including vendor profitability and product comparisons.\r\n• Consulted two vendors, helping grow their sales by 40% in 10 weeks and 30% in 6 weeks, respectively.",
+      "logoUrl": null,
+      "custom_links": []
+    },
+    {
+      "company": "KPMG",
+      "position": "Strategy Consulting Intern",
+      "location": "Frankfurt am Main, Germany",
+      "start_date": "June 2022",
+      "end_date": "August 2022",
+      "description": "• Prepared a consulting workshop on digital platforms for a global certification service provider with weekly progress reporting to two senior managers.\r\n• Created a consulting proposal for a CRM & ERP system tailored to a public sector organization.",
+      "logoUrl": null,
+      "custom_links": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "university": "University of Wollongong",
+      "location": "Wollongong, NSW, Australia",
+      "start_year": "March 2025",
+      "end_year": "November 2026",
+      "description": "• Major in Machine Learning and Big Data\r\n• Postgraduate Academic Excellence Scholarship",
+      "logoUrl": null,
+      "custom_links": []
+    },
+    {
+      "degree": "Bachelor of Science in Business Administration",
+      "university": "Frankfurt School of Finance and Management",
+      "location": "Frankfurt am Main, Germany",
+      "start_year": "September 2020",
+      "end_year": "January 2024",
+      "description": "• High Distinction equivalent (>85%)\r\n• Specialization in Information Systems Engineering\r\n• Team leader and digital marketing volunteer for a non-profit organization during my semester abroad in Canada",
+      "logoUrl": null,
+      "custom_links": []
+    }
+  ]
+}
