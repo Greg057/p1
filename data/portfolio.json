@@ -25,11 +25,11 @@
     ]
   },
   "selectedComponents": {
-    "userInfo": "minimalProfile",
-    "skills": "orbitingCircles",
-    "projects": "threeDCard",
-    "workExperience": "card",
-    "education": "card"
+    "userInfo": "heroLayout",
+    "skills": "skillsGrid",
+    "projects": "projectsGrid",
+    "workExperience": "list",
+    "education": "timeline"
   },
   "sectionOrder": [
     "personal",
@@ -199,19 +199,19 @@
       "picUrl": null,
       "technologies": [
         {
-          "name": "TypeScript",
+          "name": "typescript",
           "logo": "/p1/icons/typescript/typescript-original.svg"
         },
         {
-          "name": "Next.js",
+          "name": "nextjs",
           "logo": "/p1/icons/nextjs/nextjs-original.svg"
         },
         {
-          "name": "React",
+          "name": "react",
           "logo": "/p1/icons/react/react-original.svg"
         },
         {
-          "name": "Supabase",
+          "name": "supabase",
           "logo": "/p1/icons/supabase/supabase-original.svg"
         }
       ],
@@ -223,15 +223,15 @@
       "picUrl": null,
       "technologies": [
         {
-          "name": "React Native",
+          "name": "reactnative",
           "logo": "/p1/icons/reactnative/reactnative-original.svg"
         },
         {
-          "name": "JavaScript",
+          "name": "javascript",
           "logo": "/p1/icons/javascript/javascript-original.svg"
         },
         {
-          "name": "Firebase",
+          "name": "firebase",
           "logo": "/p1/icons/firebase/firebase-original.svg"
         }
       ],

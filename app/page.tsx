@@ -1,6 +1,6 @@
-import MinimalProfileStatic from '@/components/userInfo/static/MinimalProfileStatic'
-import OrbitingCirclesStatic from '@/components/skills/static/OrbitingCirclesStatic'
-import ThreeDCardStatic from '@/components/projects/static/ThreeDCardStatic'
+import HeroLayoutStatic from '@/components/userInfo/static/HeroLayoutStatic'
+import SkillsGridStatic from '@/components/skills/static/SkillsGridStatic'
+import ProjectsGridStatic from '@/components/projects/static/ProjectsGridStatic'
 import CustomSection3Static from '@/components/custom/static/CustomSection3Static'
 import CustomSectionListStatic from '@/components/custom/static/CustomSectionListStatic'
 import CustomSectionTimelineStatic from '@/components/custom/static/CustomSectionTimelineStatic'
@@ -10,11 +10,11 @@ export default function Portfolio() {
   return (
     <main className="min-h-screen bg-background">
       <div className="container mx-auto max-w-4xl px-4 py-8">
-        <MinimalProfileStatic personal={portfolioData.personal} />
-        {portfolioData.projects && <ThreeDCardStatic projects={portfolioData.projects} />}
-        {portfolioData.education && <CustomSection3Static section={{
+        <HeroLayoutStatic personal={portfolioData.personal} />
+        {portfolioData.projects && <ProjectsGridStatic projects={portfolioData.projects} />}
+        {portfolioData.education && <CustomSectionTimelineStatic section={{
           section_name: "Education",
-          layout_type: "card",
+          layout_type: "timeline",
           items: portfolioData.education.map((edu, index) => ({
             primaryTitle: edu.university,
             secondaryTitle: edu.degree,
@@ -25,9 +25,9 @@ export default function Portfolio() {
             customLinks: edu.custom_links
           }))
         }} />}
-        {portfolioData.workExperience && <CustomSection3Static section={{
+        {portfolioData.workExperience && <CustomSectionListStatic section={{
           section_name: "Work Experience",
-          layout_type: "card",
+          layout_type: "list",
           items: portfolioData.workExperience.map((exp, index) => ({
             primaryTitle: exp.company,
             secondaryTitle: exp.position,
@@ -38,7 +38,7 @@ export default function Portfolio() {
             customLinks: exp.custom_links
           }))
         }} />}
-        {portfolioData.skills && <OrbitingCirclesStatic skills={portfolioData.skills} />}
+        {portfolioData.skills && <SkillsGridStatic skills={portfolioData.skills} />}
       </div>
     </main>
   )
