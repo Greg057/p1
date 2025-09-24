@@ -128,7 +128,7 @@ export default function CustomSectionListStatic({ section }: { section: StaticSe
               title: link.title,
               url: link.url,
               icon: link.icon,
-            })))
+            }))}
           />
         ))}
       </ul>
