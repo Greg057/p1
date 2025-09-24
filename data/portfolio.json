@@ -25,8 +25,8 @@
     ]
   },
   "selectedComponents": {
-    "userInfo": "heroLayout",
-    "skills": "skillsGrid",
+    "userInfo": "professionalCard",
+    "skills": "autoRotatingCarousel",
     "projects": "projectsGrid",
     "workExperience": "list",
     "education": "timeline"
@@ -279,7 +279,43 @@
       "end_year": "November 2026",
       "description": "• Major in Machine Learning and Big Data\r\n• Postgraduate Academic Excellence Scholarship",
       "logoUrl": null,
-      "custom_links": []
+      "custom_links": [
+        {
+          "icon": "website",
+          "title": "greggreergregreg",
+          "url": "grege"
+        },
+        {
+          "icon": "website",
+          "title": "gregre",
+          "url": "gregrergeger"
+        },
+        {
+          "icon": "website",
+          "title": "greger",
+          "url": "greegrreegr"
+        },
+        {
+          "icon": "website",
+          "title": "gregergreger",
+          "url": "gregregeg"
+        },
+        {
+          "icon": "website",
+          "title": "gregerger",
+          "url": "grergregergreg"
+        },
+        {
+          "icon": "website",
+          "title": "fewfewf",
+          "url": "fewfewffweew"
+        },
+        {
+          "icon": "website",
+          "title": "fewfwe",
+          "url": "fewfewfwe"
+        }
+      ]
     },
     {
       "degree": "Bachelor of Science in Business Administration",

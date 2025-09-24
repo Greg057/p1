@@ -1,5 +1,5 @@
-import HeroLayoutStatic from '@/components/userInfo/static/HeroLayoutStatic'
-import SkillsGridStatic from '@/components/skills/static/SkillsGridStatic'
+import ProfessionalCardStatic from '@/components/userInfo/static/ProfessionalCardStatic'
+import AutoRotatingCarouselStatic from '@/components/skills/static/AutoRotatingCarouselStatic'
 import ProjectsGridStatic from '@/components/projects/static/ProjectsGridStatic'
 import CustomSection3Static from '@/components/custom/static/CustomSection3Static'
 import CustomSectionListStatic from '@/components/custom/static/CustomSectionListStatic'
@@ -10,7 +10,7 @@ export default function Portfolio() {
   return (
     <main className="min-h-screen bg-background">
       <div className="container mx-auto max-w-4xl px-4 py-8">
-        <HeroLayoutStatic personal={portfolioData.personal} />
+        <ProfessionalCardStatic personal={portfolioData.personal} />
         {portfolioData.projects && <ProjectsGridStatic projects={portfolioData.projects} />}
         {portfolioData.education && <CustomSectionTimelineStatic section={{
           section_name: "Education",
@@ -38,7 +38,7 @@ export default function Portfolio() {
             customLinks: exp.custom_links
           }))
         }} />}
-        {portfolioData.skills && <SkillsGridStatic skills={portfolioData.skills} />}
+        {portfolioData.skills && <AutoRotatingCarouselStatic skills={portfolioData.skills} />}
       </div>
     </main>
   )
