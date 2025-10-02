@@ -1,0 +1,410 @@
+{
+  "personal": {
+    "full_name": "Jane Doe",
+    "title": "Software Engineer",
+    "about_me": "Software Engineer at TechWave Solutions specializing in scalable web applications, cloud platforms, and Agile methodologies. Passionate about building user-friendly solutions and continuously learning emerging technologies such as artificial intelligence, machine learning, and cloud-native applications. Experienced in modern programming languages and delivering high-quality software on time and within scope.",
+    "location": "San Francisco, CA",
+    "avatarUrl": "/p1/user-files/avatar-1759380267914.webp",
+    "cvUrl": "/p1/user-files/cv.pdf",
+    "custom_links": [
+      {
+        "icon": "email",
+        "title": "Email",
+        "url": "jane.doe@email.com"
+      },
+      {
+        "icon": "linkedin",
+        "title": "LinkedIn",
+        "url": "https://linkedin.com/in/janedoe"
+      },
+      {
+        "icon": "github",
+        "title": "GitHub",
+        "url": "https://github.com/janedoe"
+      }
+    ]
+  },
+  "selectedComponents": {
+    "userInfo": "heroLayout",
+    "skills": "orbitingCircles",
+    "projects": "threeDCard",
+    "workExperience": "card",
+    "education": "card"
+  },
+  "sectionOrder": [
+    "personal",
+    "experience",
+    "education",
+    "projects",
+    "skills"
+  ],
+  "themePreset": "default",
+  "skills": [
+    {
+      "name": "Java",
+      "logo": "/p1/icons/java/java-original.svg"
+    },
+    {
+      "name": "Python",
+      "logo": "/p1/icons/python/python-original.svg"
+    },
+    {
+      "name": "JavaScript",
+      "logo": "/p1/icons/javascript/javascript-original.svg"
+    },
+    {
+      "name": "React",
+      "logo": "/p1/icons/react/react-original.svg"
+    },
+    {
+      "name": "Node.js",
+      "logo": "/p1/icons/nodejs/nodejs-original.svg"
+    },
+    {
+      "name": "TypeScript",
+      "logo": "/p1/icons/typescript/typescript-original.svg"
+    },
+    {
+      "name": "C++",
+      "logo": "/p1/icons/cplusplus/cplusplus-original.svg"
+    },
+    {
+      "name": "Next.js",
+      "logo": "/p1/icons/nextjs/nextjs-original.svg"
+    },
+    {
+      "name": "Spring Boot",
+      "logo": "/p1/icons/spring/spring-original.svg"
+    },
+    {
+      "name": "Express.js",
+      "logo": "/p1/icons/express/express-original.svg"
+    },
+    {
+      "name": "Django",
+      "logo": "/p1/icons/django/django-original.svg"
+    },
+    {
+      "name": "PostgreSQL",
+      "logo": "/p1/icons/postgresql/postgresql-original.svg"
+    },
+    {
+      "name": "MongoDB",
+      "logo": "/p1/icons/mongodb/mongodb-original.svg"
+    },
+    {
+      "name": "MySQL",
+      "logo": "/p1/icons/mysql/mysql-original.svg"
+    },
+    {
+      "name": "Redis",
+      "logo": "/p1/icons/redis/redis-original.svg"
+    },
+    {
+      "name": "AWS",
+      "logo": "/p1/icons/amazonwebservices/amazonwebservices-original.svg"
+    },
+    {
+      "name": "Docker",
+      "logo": "/p1/icons/docker/docker-original.svg"
+    },
+    {
+      "name": "Kubernetes",
+      "logo": "/p1/icons/kubernetes/kubernetes-original.svg"
+    },
+    {
+      "name": "Git",
+      "logo": "/p1/icons/git/git-original.svg"
+    },
+    {
+      "name": "Jenkins",
+      "logo": "/p1/icons/jenkins/jenkins-original.svg"
+    },
+    {
+      "name": "CI/CD pipelines",
+      "logo": null
+    },
+    {
+      "name": "REST APIs",
+      "logo": null
+    },
+    {
+      "name": "GraphQL",
+      "logo": "/p1/icons/graphql/graphql-original.svg"
+    },
+    {
+      "name": "Unit Testing",
+      "logo": null
+    },
+    {
+      "name": "Agile/Scrum",
+      "logo": null
+    },
+    {
+      "name": "Test-Driven Development (TDD)",
+      "logo": null
+    },
+    {
+      "name": "GitHub Actions",
+      "logo": "/p1/icons/githubactions/githubactions-original.svg"
+    },
+    {
+      "name": "Supabase",
+      "logo": "/p1/icons/supabase/supabase-original.svg"
+    },
+    {
+      "name": "Vercel",
+      "logo": "/p1/icons/vercel/vercel-original.svg"
+    },
+    {
+      "name": "scikit-learn",
+      "logo": "/p1/icons/scikitlearn/scikitlearn-original.svg"
+    },
+    {
+      "name": "Flask",
+      "logo": "/p1/icons/flask/flask-original.svg"
+    },
+    {
+      "name": "React Native",
+      "logo": "/p1/icons/reactnative/reactnative-original.svg"
+    },
+    {
+      "name": "SQLite",
+      "logo": "/p1/icons/sqlite/sqlite-original.svg"
+    }
+  ],
+  "projects": [
+    {
+      "name": "React Native Focus Pals",
+      "description": "Developed Focus Pals, a gamified React Native app using Firebase backend, to boost productivity with features like a focus timer, collectible virtual pets that level up, and a Deep Focus Mode that rewards uninterrupted study sessions.",
+      "picUrl": null,
+      "technologies": [
+        {
+          "name": "Expo",
+          "logo": "/p1/icons/expo/expo-original.svg"
+        },
+        {
+          "name": "Firebase",
+          "logo": "/p1/icons/firebase/firebase-original.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/p1/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "React",
+          "logo": "/p1/icons/react/react-original.svg"
+        },
+        {
+          "name": "React Native",
+          "logo": "/p1/icons/reactnative/reactnative-original.svg"
+        }
+      ],
+      "custom_links": [
+        {
+          "icon": "github",
+          "title": "GitHub",
+          "url": "https://github.com/Greg057/react-native-focus-pals"
+        }
+      ]
+    },
+    {
+      "name": "Battleship Game",
+      "description": "Developed a Battleship game using Test Driven Development to implement ship management, gameboard functionality, and turn-based gameplay with real and computer players. Utilized Jest for unit testing and JavaScript for game logic.",
+      "picUrl": null,
+      "technologies": [
+        {
+          "name": "JavaScript",
+          "logo": "/p1/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "Jest",
+          "logo": "/p1/icons/jest/jest-original.svg"
+        },
+        {
+          "name": "Webpack",
+          "logo": "/p1/icons/webpack/webpack-original.svg"
+        },
+        {
+          "name": "HTML5",
+          "logo": "/p1/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/p1/icons/css3/css3-original.svg"
+        }
+      ],
+      "custom_links": [
+        {
+          "icon": "github",
+          "title": "GitHub",
+          "url": "https://github.com/Greg057/battleship-game"
+        }
+      ]
+    },
+    {
+      "name": "React Memory Card",
+      "description": "Developed a React-based Memory Card game that challenges users to click unique cards without repetition, featuring a scoreboard and dynamic card shuffling. Integrated external API data to fetch card images and info, enhancing gameplay with real-time content.",
+      "picUrl": null,
+      "technologies": [
+        {
+          "name": "JavaScript",
+          "logo": "/p1/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "React",
+          "logo": "/p1/icons/react/react-original.svg"
+        },
+        {
+          "name": "Vite",
+          "logo": "/p1/icons/vite/vite-original.svg"
+        },
+        {
+          "name": "Hooks",
+          "logo": null
+        },
+        {
+          "name": "CSS3",
+          "logo": "/p1/icons/css3/css3-original.svg"
+        }
+      ],
+      "custom_links": [
+        {
+          "icon": "github",
+          "title": "GitHub",
+          "url": "https://github.com/Greg057/react-memory-card"
+        },
+        {
+          "icon": "demo",
+          "title": "Live Demo",
+          "url": "https://memory-card-steel.vercel.app"
+        }
+      ]
+    },
+    {
+      "name": "React Native Weather App",
+      "description": "Developed a React Native Weather App that provides users with real-time weather updates and forecasts, leveraging Expo for streamlined development and deployment.",
+      "picUrl": null,
+      "technologies": [
+        {
+          "name": "Expo",
+          "logo": "/p1/icons/expo/expo-original.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/p1/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "React",
+          "logo": "/p1/icons/react/react-original.svg"
+        },
+        {
+          "name": "React Native",
+          "logo": "/p1/icons/reactnative/reactnative-original.svg"
+        }
+      ],
+      "custom_links": [
+        {
+          "icon": "github",
+          "title": "GitHub",
+          "url": "https://github.com/Greg057/react-native-weather-app"
+        }
+      ]
+    },
+    {
+      "name": "Habit Tracker App",
+      "description": "Developed an iOS habit tracking app enabling users to add, remove, and customize habits with daily resets at midnight. Implemented using Swift, SwiftUI, and SwiftData to manage and persist habit data effectively.",
+      "picUrl": null,
+      "technologies": [
+        {
+          "name": "Swift",
+          "logo": "/p1/icons/swift/swift-original.svg"
+        },
+        {
+          "name": "SwiftUI",
+          "logo": null
+        },
+        {
+          "name": "SwiftData",
+          "logo": null
+        }
+      ],
+      "custom_links": [
+        {
+          "icon": "github",
+          "title": "GitHub",
+          "url": "https://github.com/Greg057/habit-tracker-app"
+        }
+      ]
+    },
+    {
+      "name": "React Cv App",
+      "description": "Developed a React-based CV Editor enabling users to create and manage professional resumes with sections for general info, education, and work experience through an intuitive interface.",
+      "picUrl": null,
+      "technologies": [
+        {
+          "name": "JavaScript",
+          "logo": "/p1/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "React",
+          "logo": "/p1/icons/react/react-original.svg"
+        },
+        {
+          "name": "Vite",
+          "logo": "/p1/icons/vite/vite-original.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/p1/icons/css3/css3-original.svg"
+        }
+      ],
+      "custom_links": [
+        {
+          "icon": "github",
+          "title": "GitHub",
+          "url": "https://github.com/Greg057/react-cv-app"
+        },
+        {
+          "icon": "demo",
+          "title": "Live Demo",
+          "url": "https://cv-app-cyan-tau.vercel.app"
+        }
+      ]
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "TechWave Solutions",
+      "position": "Software Engineer",
+      "location": "San Francisco, CA",
+      "start_date": "Jan 2021",
+      "end_date": "Present",
+      "description": "- Designed and developed scalable microservices in Java and Node.js, reducing system downtime by 30%.\r\n- Implemented CI/CD pipelines with GitHub Actions and Docker, improving deployment speed by 40%.\r\n- Optimized database queries in PostgreSQL, cutting average response time by 25%.\r\n- Collaborated with a team of 8 engineers using Agile, consistently delivering features within sprint deadlines.\r\n- Mentored junior developers, leading to faster onboarding and reduced code review issues.",
+      "logoUrl": null,
+      "custom_links": []
+    },
+    {
+      "company": "BrightApps Inc.",
+      "position": "Junior Software Engineer",
+      "location": "San Jose, CA",
+      "start_date": "Jun 2019",
+      "end_date": "Dec 2020",
+      "description": "- Built front-end features with React and integrated REST APIs for an e-commerce platform serving 50k+ users.\r\n- Wrote unit and integration tests, increasing code coverage from 60% to 85%.\r\n- Supported migration of legacy PHP application to Node.js, improving maintainability.\r\n- Partnered with UX designers to enhance customer checkout flow, resulting in 15% increase in conversions.\r\n- Automated deployment scripts with Jenkins, cutting manual release steps by 70%.",
+      "logoUrl": null,
+      "custom_links": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Science",
+      "university": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "start_year": "2015",
+      "end_year": "2019",
+      "description": "Relevant Coursework:\r\nData Structures, Algorithms, Operating Systems, Databases, Machine Learning, Software Engineering.",
+      "logoUrl": null,
+      "custom_links": []
+    }
+  ]
+}
