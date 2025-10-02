@@ -32,13 +32,13 @@
     "education": "card"
   },
   "sectionOrder": [
+    "education",
     "personal",
     "experience",
-    "education",
-    "projects",
-    "skills"
+    "skills",
+    "projects"
   ],
-  "themePreset": "default",
+  "themePreset": "forest",
   "skills": [
     {
       "name": "Java",
@@ -73,12 +73,12 @@
       "logo": "/p1/icons/nextjs/nextjs-original.svg"
     },
     {
-      "name": "Spring Boot",
-      "logo": "/p1/icons/spring/spring-original.svg"
-    },
-    {
       "name": "Express.js",
       "logo": "/p1/icons/express/express-original.svg"
+    },
+    {
+      "name": "Spring Boot",
+      "logo": "/p1/icons/spring/spring-original.svg"
     },
     {
       "name": "Django",
@@ -175,7 +175,7 @@
   ],
   "projects": [
     {
-      "name": "React Native Focus Pals",
+      "name": "React Native Focus Palsdwqdwqefewfwe",
       "description": "Developed Focus Pals, a gamified React Native app using Firebase backend, to boost productivity with features like a focus timer, collectible virtual pets that level up, and a Deep Focus Mode that rewards uninterrupted study sessions.",
       "picUrl": null,
       "technologies": [
@@ -375,7 +375,7 @@
   ],
   "workExperience": [
     {
-      "company": "TechWave Solutions",
+      "company": "TechWave Solutiondwqdwqds",
       "position": "Software Engineer",
       "location": "San Francisco, CA",
       "start_date": "Jan 2021",
