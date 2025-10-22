@@ -1,0 +1,246 @@
+{
+  "personal": {
+    "full_name": "Jane Doe",
+    "title": "Software Engineer",
+    "about_me": "Software engineer with over 4 years of experience developing and maintaining scalable web applications. Skilled in modern programming languages, cloud platforms, and Agile methodologies. Strong collaborator with a track record of delivering high-quality software on time and within scope. Passionate about building user-friendly solutions and continuously learning emerging technologies such as artificial intelligence, machine learning, and cloud-native applications.",
+    "location": "San Francisco, CA",
+    "avatarUrl": null,
+    "cvUrl": "/p1/user-files/cv/cv.pdf",
+    "custom_links": [
+      {
+        "icon": "email",
+        "title": "Email",
+        "url": "jane.doe@email.com"
+      },
+      {
+        "icon": "linkedin",
+        "title": "LinkedIn",
+        "url": "https://linkedin.com/in/janedoe"
+      },
+      {
+        "icon": "github",
+        "title": "GitHub",
+        "url": "https://github.com/janedoe"
+      }
+    ]
+  },
+  "selectedComponents": {
+    "userInfo": "centerAligned",
+    "skills": "orbitingCircles",
+    "projects": "threeDCard",
+    "workExperience": "card",
+    "education": "card"
+  },
+  "sectionOrder": null,
+  "themePreset": "default",
+  "skills": [
+    {
+      "name": "Java",
+      "logo": "/p1/icons/java/java-original.svg"
+    },
+    {
+      "name": "Python",
+      "logo": "/p1/icons/python/python-original.svg"
+    },
+    {
+      "name": "JavaScript",
+      "logo": "/p1/icons/javascript/javascript-original.svg"
+    },
+    {
+      "name": "React",
+      "logo": "/p1/icons/react/react-original.svg"
+    },
+    {
+      "name": "Node.js",
+      "logo": "/p1/icons/nodejs/nodejs-original.svg"
+    },
+    {
+      "name": "TypeScript",
+      "logo": "/p1/icons/typescript/typescript-original.svg"
+    },
+    {
+      "name": "C++",
+      "logo": "/p1/icons/cplusplus/cplusplus-original.svg"
+    },
+    {
+      "name": "Next.js",
+      "logo": "/p1/icons/nextjs/nextjs-original.svg"
+    },
+    {
+      "name": "Spring Boot",
+      "logo": "/p1/icons/spring/spring-original.svg"
+    },
+    {
+      "name": "Express.js",
+      "logo": "/p1/icons/express/express-original.svg"
+    },
+    {
+      "name": "Django",
+      "logo": "/p1/icons/django/django-original.svg"
+    },
+    {
+      "name": "PostgreSQL",
+      "logo": "/p1/icons/postgresql/postgresql-original.svg"
+    },
+    {
+      "name": "MongoDB",
+      "logo": "/p1/icons/mongodb/mongodb-original.svg"
+    },
+    {
+      "name": "MySQL",
+      "logo": "/p1/icons/mysql/mysql-original.svg"
+    },
+    {
+      "name": "Redis",
+      "logo": "/p1/icons/redis/redis-original.svg"
+    },
+    {
+      "name": "AWS",
+      "logo": "/p1/icons/amazonwebservices/amazonwebservices-original.svg"
+    },
+    {
+      "name": "Docker",
+      "logo": "/p1/icons/docker/docker-original.svg"
+    },
+    {
+      "name": "Kubernetes",
+      "logo": "/p1/icons/kubernetes/kubernetes-original.svg"
+    },
+    {
+      "name": "Git",
+      "logo": "/p1/icons/git/git-original.svg"
+    },
+    {
+      "name": "Jenkins",
+      "logo": "/p1/icons/jenkins/jenkins-original.svg"
+    },
+    {
+      "name": "CI/CD pipelines",
+      "logo": null
+    },
+    {
+      "name": "REST APIs",
+      "logo": null
+    },
+    {
+      "name": "GraphQL",
+      "logo": "/p1/icons/graphql/graphql-original.svg"
+    },
+    {
+      "name": "Unit Testing",
+      "logo": null
+    },
+    {
+      "name": "Agile",
+      "logo": null
+    },
+    {
+      "name": "Scrum",
+      "logo": null
+    },
+    {
+      "name": "Test-Driven Development",
+      "logo": null
+    },
+    {
+      "name": "TDD",
+      "logo": null
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio Builder Web App",
+      "description": "- Developed a customizable portfolio generator using Next.js and Supabase.\n- Implemented user authentication, template themes, and image upload features.\n- Deployed application on Vercel with continuous integration.",
+      "picUrl": null,
+      "technologies": [
+        {
+          "name": "nextjs",
+          "logo": "/p1/icons/nextjs/nextjs-original.svg"
+        },
+        {
+          "name": "supabase",
+          "logo": "/p1/icons/supabase/supabase-original.svg"
+        },
+        {
+          "name": "vercel",
+          "logo": "/p1/icons/vercel/vercel-original.svg"
+        }
+      ],
+      "custom_links": []
+    },
+    {
+      "name": "Movie Recommendation System",
+      "description": "- Built a Python-based ML model using scikit-learn to recommend movies with 82% accuracy.\n- Deployed the model as a Flask API and integrated it into a React front end.\n- Conducted A/B testing with 200+ users, improving recommendation relevance by 18%.",
+      "picUrl": null,
+      "technologies": [
+        {
+          "name": "python",
+          "logo": "/p1/icons/python/python-original.svg"
+        },
+        {
+          "name": "scikitlearn",
+          "logo": "/p1/icons/scikitlearn/scikitlearn-original.svg"
+        },
+        {
+          "name": "flask",
+          "logo": "/p1/icons/flask/flask-original.svg"
+        },
+        {
+          "name": "react",
+          "logo": "/p1/icons/react/react-original.svg"
+        }
+      ],
+      "custom_links": []
+    },
+    {
+      "name": "Task Manager Mobile App",
+      "description": "- Created a cross-platform mobile app using React Native for task tracking.\n- Integrated push notifications and offline storage using SQLite.\n- Achieved 1,000+ downloads with positive feedback on UI/UX.",
+      "picUrl": null,
+      "technologies": [
+        {
+          "name": "reactnative",
+          "logo": "/p1/icons/reactnative/reactnative-original.svg"
+        },
+        {
+          "name": "sqlite",
+          "logo": "/p1/icons/sqlite/sqlite-original.svg"
+        }
+      ],
+      "custom_links": []
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "TechWave Solutions",
+      "position": "Software Engineer",
+      "location": "San Francisco, CA",
+      "start_date": "Jan 2021",
+      "end_date": "Present",
+      "description": "- Designed and developed scalable microservices in Java and Node.js, reducing system downtime by 30%.\n- Implemented CI/CD pipelines with GitHub Actions and Docker, improving deployment speed by 40%.\n- Optimized database queries in PostgreSQL, cutting average response time by 25%.\n- Collaborated with a team of 8 engineers using Agile, consistently delivering features within sprint deadlines.\n- Mentored junior developers, leading to faster onboarding and reduced code review issues.",
+      "logoUrl": null,
+      "custom_links": []
+    },
+    {
+      "company": "BrightApps Inc.",
+      "position": "Junior Software Engineer",
+      "location": "San Jose, CA",
+      "start_date": "Jun 2019",
+      "end_date": "Dec 2020",
+      "description": "- Built front-end features with React and integrated REST APIs for an e-commerce platform serving 50k+ users.\n- Wrote unit and integration tests, increasing code coverage from 60% to 85%.\n- Supported migration of legacy PHP application to Node.js, improving maintainability.\n- Partnered with UX designers to enhance customer checkout flow, resulting in 15% increase in conversions.\n- Automated deployment scripts with Jenkins, cutting manual release steps by 70%.",
+      "logoUrl": null,
+      "custom_links": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Science",
+      "university": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "start_year": "2015",
+      "end_year": "2019",
+      "description": "Relevant Coursework:\nData Structures, Algorithms, Operating Systems, Databases, Machine Learning, Software Engineering.",
+      "logoUrl": null,
+      "custom_links": []
+    }
+  ]
+}
